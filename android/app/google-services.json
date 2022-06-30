@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242207810271",
+    "project_id": "elhaj-9a41b",
+    "storage_bucket": "elhaj-9a41b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242207810271:android:b9585b5135f3b89f75bf6a",
+        "android_client_info": {
+          "package_name": "com.example.grad_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242207810271-h06qqablscdf8mdhpvthb5m6975862qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_aUKWDZ5nBb1BjHencXPeSLlZnC378sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242207810271-h06qqablscdf8mdhpvthb5m6975862qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
